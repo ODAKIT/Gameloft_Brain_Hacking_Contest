@@ -2,3 +2,4 @@
 3rd and Social Media prize
 
 Vì cuộc thi chủ đạo dùng framework của công ty Gameloft , vì tính bảo mật nên mình không thể public full source
+![Screenshot](img.png)
